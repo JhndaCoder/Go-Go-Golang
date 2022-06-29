@@ -15,7 +15,7 @@ func main() {
 	fmt.Println(student2)
 	fmt.Println(x)
 
-	//!Variable Declaration Without Initial Value
+	//! Variable Declaration Without Initial Value
 	var a string
 	var b int
 	var c bool
