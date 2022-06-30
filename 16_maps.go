@@ -191,7 +191,8 @@ func main() {
 
 	fmt.Println()
 
-	for _, element := range b4 { // loop with the defined order
-	}
+	for _, element := range b { // loop with the defined order
+		fmt.Printf("%v : %v, ", element, a[element])
 
+	}
 }
